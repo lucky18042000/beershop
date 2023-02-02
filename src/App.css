@@ -1,0 +1,13 @@
+  @font-face {
+    font-family: "PP Fraktion Sans";
+    src: url("/src//Fonts/Fraktion\ Sans\ Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'TT Trailers';
+    src: url("/src/Fonts/TT\ Trailers\ Trial\ Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+  }
