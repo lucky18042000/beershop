@@ -6,12 +6,8 @@ function Header() {
   return (
     <div className="header">
       <header
-        className="relative"
-        style={{
-          backgroundImage: "url(/src//assets/bg.png)",
-          backgroundSize: "cover",
-          backgroundPosition: "center",
-        }}
+        className="header-bg relative"
+        
       >
         <div className="header-blackshade absolute top-0 left-0 right-0 bottom-0 bg-black opacity-50" />
         <Navbar className="z-10" />
